@@ -1,10 +1,10 @@
 {
-"Version":"2",
-"Url":"LINKFILE",
+"Version":"30",
+"Url":"https://github.com/MrRKeo/KHVPS2030/blob/main/KHVPS.zip",
 "Changelog":"
 
 Hello would!!!?
-
+vpskh🇹🇭
 ",
  "releaseNotes": [
  "-Demo"
