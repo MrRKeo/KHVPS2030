@@ -1,10 +1,11 @@
 {
-"Version":"30",
+"Version":"2.2",
 "Url":"https://raw.githubusercontent.com/MrRKeo/KHVPS2030/main/VPSKH20230.zip",
 "Changelog":"
 
 Hello would!!!?
-vpskh🇹🇭
+uaiwhwvwhwjwjwjwjwksjsjsjs
+BKTBTKGKGKHHJJJJajajakka
 ",
  "releaseNotes": [
  "-Demo"
