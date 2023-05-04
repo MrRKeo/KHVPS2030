@@ -1,6 +1,6 @@
 {
 "Version":"30",
-"Url":"https://github.com/MrRKeo/KHVPS2030/blob/main/KHVPS.zip",
+"Url":"https://raw.githubusercontent.com/MrRKeo/KHVPS2030/main/VPSKH20230.txt",
 "Changelog":"
 
 Hello would!!!?
